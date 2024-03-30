@@ -1,0 +1,43 @@
+body{
+    margin-top: 150px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+  
+}
+#display{
+    height: 40px;
+    width: 200px;
+    margin-bottom: 15px;
+
+}
+input[type=button]{
+    height: 40px;
+    width: 45px;
+    margin-top: 10px;
+    background-color: rgb(179, 174, 174);
+ font-weight: 500;
+}
+input[type=button]:hover{
+    font-weight: bold;
+    font-size: large;
+}
+#equal{
+    width: 190px;
+}
+#clear , #equal{
+    background-color: orangered;
+    color: white;
+    font-weight: bold;
+}
+.container{
+    height: 350px;
+    width: 250px;
+    border: 1px solid black;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 20px;
+    background-color: black;
+}
