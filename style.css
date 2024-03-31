@@ -20,7 +20,7 @@ input[type=button]{
 }
 input[type=button]:hover{
     font-weight: bold;
-    font-size: large;
+    font-size: 20px;
 }
 #equal{
     width: 190px;
