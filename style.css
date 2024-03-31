@@ -9,7 +9,7 @@ body{
     height: 40px;
     width: 200px;
     margin-bottom: 15px;
-
+     font-weight: 900;
 }
 input[type=button]{
     height: 40px;
@@ -39,5 +39,5 @@ input[type=button]:hover{
     justify-content: center;
     align-items: center;
     border-radius: 20px;
-    background-color: black;
+     background-color: grey;
 }
